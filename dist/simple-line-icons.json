@@ -1,0 +1,650 @@
+[
+  {
+    "icon": "icon-user",
+    "tags": ""
+  },
+  {
+    "icon": "icon-user-female",
+    "tags": ""
+  },
+  {
+    "icon": "icon-users",
+    "tags": ""
+  },
+  {
+    "icon": "icon-user-follow",
+    "tags": ""
+  },
+  {
+    "icon": "icon-user-following",
+    "tags": ""
+  },
+  {
+    "icon": "icon-user-unfollow",
+    "tags": ""
+  },
+  {
+    "icon": "icon-trophy",
+    "tags": ""
+  },
+  {
+    "icon": "icon-speedometer",
+    "tags": ""
+  },
+  {
+    "icon": "icon-social-youtube",
+    "tags": ""
+  },
+  {
+    "icon": "icon-social-twitter",
+    "tags": ""
+  },
+  {
+    "icon": "icon-social-tumblr",
+    "tags": ""
+  },
+  {
+    "icon": "icon-social-facebook",
+    "tags": ""
+  },
+  {
+    "icon": "icon-social-dropbox",
+    "tags": ""
+  },
+  {
+    "icon": "icon-social-dribbble",
+    "tags": ""
+  },
+  {
+    "icon": "icon-shield",
+    "tags": ""
+  },
+  {
+    "icon": "icon-screen-tablet",
+    "tags": ""
+  },
+  {
+    "icon": "icon-screen-smartphone",
+    "tags": ""
+  },
+  {
+    "icon": "icon-screen-desktop",
+    "tags": ""
+  },
+  {
+    "icon": "icon-plane",
+    "tags": ""
+  },
+  {
+    "icon": "icon-notebook",
+    "tags": ""
+  },
+  {
+    "icon": "icon-moustache",
+    "tags": ""
+  },
+  {
+    "icon": "icon-mouse",
+    "tags": ""
+  },
+  {
+    "icon": "icon-magnet",
+    "tags": ""
+  },
+  {
+    "icon": "icon-magic-wand",
+    "tags": ""
+  },
+  {
+    "icon": "icon-hourglass",
+    "tags": ""
+  },
+  {
+    "icon": "icon-graduation",
+    "tags": ""
+  },
+  {
+    "icon": "icon-ghost",
+    "tags": ""
+  },
+  {
+    "icon": "icon-game-controller",
+    "tags": ""
+  },
+  {
+    "icon": "icon-fire",
+    "tags": ""
+  },
+  {
+    "icon": "icon-eyeglasses",
+    "tags": ""
+  },
+  {
+    "icon": "icon-envelope-open",
+    "tags": ""
+  },
+  {
+    "icon": "icon-envelope-letter",
+    "tags": ""
+  },
+  {
+    "icon": "icon-energy",
+    "tags": ""
+  },
+  {
+    "icon": "icon-emoticon-smile",
+    "tags": ""
+  },
+  {
+    "icon": "icon-disc",
+    "tags": ""
+  },
+  {
+    "icon": "icon-cursor-move",
+    "tags": ""
+  },
+  {
+    "icon": "icon-crop",
+    "tags": ""
+  },
+  {
+    "icon": "icon-credit-card",
+    "tags": ""
+  },
+  {
+    "icon": "icon-chemistry",
+    "tags": ""
+  },
+  {
+    "icon": "icon-bell",
+    "tags": ""
+  },
+  {
+    "icon": "icon-badge",
+    "tags": ""
+  },
+  {
+    "icon": "icon-anchor",
+    "tags": ""
+  },
+  {
+    "icon": "icon-action-redo",
+    "tags": ""
+  },
+  {
+    "icon": "icon-action-undo",
+    "tags": ""
+  },
+  {
+    "icon": "icon-bag",
+    "tags": ""
+  },
+  {
+    "icon": "icon-basket",
+    "tags": ""
+  },
+  {
+    "icon": "icon-basket-loaded",
+    "tags": ""
+  },
+  {
+    "icon": "icon-book-open",
+    "tags": ""
+  },
+  {
+    "icon": "icon-briefcase",
+    "tags": ""
+  },
+  {
+    "icon": "icon-bubbles",
+    "tags": ""
+  },
+  {
+    "icon": "icon-calculator",
+    "tags": ""
+  },
+  {
+    "icon": "icon-call-end",
+    "tags": ""
+  },
+  {
+    "icon": "icon-call-in",
+    "tags": ""
+  },
+  {
+    "icon": "icon-call-out",
+    "tags": ""
+  },
+  {
+    "icon": "icon-compass",
+    "tags": ""
+  },
+  {
+    "icon": "icon-cup",
+    "tags": ""
+  },
+  {
+    "icon": "icon-diamond",
+    "tags": ""
+  },
+  {
+    "icon": "icon-direction",
+    "tags": ""
+  },
+  {
+    "icon": "icon-directions",
+    "tags": ""
+  },
+  {
+    "icon": "icon-docs",
+    "tags": ""
+  },
+  {
+    "icon": "icon-drawer",
+    "tags": ""
+  },
+  {
+    "icon": "icon-drop",
+    "tags": ""
+  },
+  {
+    "icon": "icon-earphones",
+    "tags": ""
+  },
+  {
+    "icon": "icon-earphones-alt",
+    "tags": ""
+  },
+  {
+    "icon": "icon-feed",
+    "tags": ""
+  },
+  {
+    "icon": "icon-film",
+    "tags": ""
+  },
+  {
+    "icon": "icon-folder-alt",
+    "tags": ""
+  },
+  {
+    "icon": "icon-frame",
+    "tags": ""
+  },
+  {
+    "icon": "icon-globe",
+    "tags": ""
+  },
+  {
+    "icon": "icon-globe-alt",
+    "tags": ""
+  },
+  {
+    "icon": "icon-handbag",
+    "tags": ""
+  },
+  {
+    "icon": "icon-layers",
+    "tags": ""
+  },
+  {
+    "icon": "icon-map",
+    "tags": ""
+  },
+  {
+    "icon": "icon-picture",
+    "tags": ""
+  },
+  {
+    "icon": "icon-pin",
+    "tags": ""
+  },
+  {
+    "icon": "icon-playlist",
+    "tags": ""
+  },
+  {
+    "icon": "icon-present",
+    "tags": ""
+  },
+  {
+    "icon": "icon-printer",
+    "tags": ""
+  },
+  {
+    "icon": "icon-puzzle",
+    "tags": ""
+  },
+  {
+    "icon": "icon-speech",
+    "tags": ""
+  },
+  {
+    "icon": "icon-vector",
+    "tags": ""
+  },
+  {
+    "icon": "icon-wallet",
+    "tags": ""
+  },
+  {
+    "icon": "icon-arrow-down",
+    "tags": ""
+  },
+  {
+    "icon": "icon-arrow-left",
+    "tags": ""
+  },
+  {
+    "icon": "icon-arrow-right",
+    "tags": ""
+  },
+  {
+    "icon": "icon-arrow-up",
+    "tags": ""
+  },
+  {
+    "icon": "icon-bar-chart",
+    "tags": ""
+  },
+  {
+    "icon": "icon-bulb",
+    "tags": ""
+  },
+  {
+    "icon": "icon-calendar",
+    "tags": ""
+  },
+  {
+    "icon": "icon-control-end",
+    "tags": ""
+  },
+  {
+    "icon": "icon-control-forward",
+    "tags": ""
+  },
+  {
+    "icon": "icon-control-pause",
+    "tags": ""
+  },
+  {
+    "icon": "icon-control-play",
+    "tags": ""
+  },
+  {
+    "icon": "icon-control-rewind",
+    "tags": ""
+  },
+  {
+    "icon": "icon-control-start",
+    "tags": ""
+  },
+  {
+    "icon": "icon-cursor",
+    "tags": ""
+  },
+  {
+    "icon": "icon-dislike",
+    "tags": ""
+  },
+  {
+    "icon": "icon-equalizer",
+    "tags": ""
+  },
+  {
+    "icon": "icon-graph",
+    "tags": ""
+  },
+  {
+    "icon": "icon-grid",
+    "tags": ""
+  },
+  {
+    "icon": "icon-home",
+    "tags": ""
+  },
+  {
+    "icon": "icon-like",
+    "tags": ""
+  },
+  {
+    "icon": "icon-list",
+    "tags": ""
+  },
+  {
+    "icon": "icon-login",
+    "tags": ""
+  },
+  {
+    "icon": "icon-logout",
+    "tags": ""
+  },
+  {
+    "icon": "icon-loop",
+    "tags": ""
+  },
+  {
+    "icon": "icon-microphone",
+    "tags": ""
+  },
+  {
+    "icon": "icon-music-tone",
+    "tags": ""
+  },
+  {
+    "icon": "icon-music-tone-alt",
+    "tags": ""
+  },
+  {
+    "icon": "icon-note",
+    "tags": ""
+  },
+  {
+    "icon": "icon-pencil",
+    "tags": ""
+  },
+  {
+    "icon": "icon-pie-chart",
+    "tags": ""
+  },
+  {
+    "icon": "icon-question",
+    "tags": ""
+  },
+  {
+    "icon": "icon-rocket",
+    "tags": ""
+  },
+  {
+    "icon": "icon-share",
+    "tags": ""
+  },
+  {
+    "icon": "icon-share-alt",
+    "tags": ""
+  },
+  {
+    "icon": "icon-shuffle",
+    "tags": ""
+  },
+  {
+    "icon": "icon-size-actual",
+    "tags": ""
+  },
+  {
+    "icon": "icon-size-fullscreen",
+    "tags": ""
+  },
+  {
+    "icon": "icon-support",
+    "tags": ""
+  },
+  {
+    "icon": "icon-tag",
+    "tags": ""
+  },
+  {
+    "icon": "icon-trash",
+    "tags": ""
+  },
+  {
+    "icon": "icon-umbrella",
+    "tags": ""
+  },
+  {
+    "icon": "icon-wrench",
+    "tags": ""
+  },
+  {
+    "icon": "icon-ban",
+    "tags": ""
+  },
+  {
+    "icon": "icon-bubble",
+    "tags": ""
+  },
+  {
+    "icon": "icon-camcorder",
+    "tags": ""
+  },
+  {
+    "icon": "icon-camera",
+    "tags": ""
+  },
+  {
+    "icon": "icon-check",
+    "tags": ""
+  },
+  {
+    "icon": "icon-clock",
+    "tags": ""
+  },
+  {
+    "icon": "icon-close",
+    "tags": ""
+  },
+  {
+    "icon": "icon-cloud-download",
+    "tags": ""
+  },
+  {
+    "icon": "icon-cloud-upload",
+    "tags": ""
+  },
+  {
+    "icon": "icon-doc",
+    "tags": ""
+  },
+  {
+    "icon": "icon-envelope",
+    "tags": ""
+  },
+  {
+    "icon": "icon-eye",
+    "tags": ""
+  },
+  {
+    "icon": "icon-flag",
+    "tags": ""
+  },
+  {
+    "icon": "icon-folder",
+    "tags": ""
+  },
+  {
+    "icon": "icon-heart",
+    "tags": ""
+  },
+  {
+    "icon": "icon-info",
+    "tags": ""
+  },
+  {
+    "icon": "icon-key",
+    "tags": ""
+  },
+  {
+    "icon": "icon-link",
+    "tags": ""
+  },
+  {
+    "icon": "icon-lock",
+    "tags": ""
+  },
+  {
+    "icon": "icon-lock-open",
+    "tags": ""
+  },
+  {
+    "icon": "icon-magnifier",
+    "tags": ""
+  },
+  {
+    "icon": "icon-magnifier-add",
+    "tags": ""
+  },
+  {
+    "icon": "icon-magnifier-remove",
+    "tags": ""
+  },
+  {
+    "icon": "icon-paper-clip",
+    "tags": ""
+  },
+  {
+    "icon": "icon-paper-plane",
+    "tags": ""
+  },
+  {
+    "icon": "icon-plus",
+    "tags": ""
+  },
+  {
+    "icon": "icon-pointer",
+    "tags": ""
+  },
+  {
+    "icon": "icon-power",
+    "tags": ""
+  },
+  {
+    "icon": "icon-refresh",
+    "tags": ""
+  },
+  {
+    "icon": "icon-reload",
+    "tags": ""
+  },
+  {
+    "icon": "icon-settings",
+    "tags": ""
+  },
+  {
+    "icon": "icon-star",
+    "tags": ""
+  },
+  {
+    "icon": "icon-symbol-female",
+    "tags": ""
+  },
+  {
+    "icon": "icon-symbol-male",
+    "tags": ""
+  },
+  {
+    "icon": "icon-target",
+    "tags": ""
+  },
+  {
+    "icon": "icon-volume-1",
+    "tags": ""
+  },
+  {
+    "icon": "icon-volume-2",
+    "tags": ""
+  },
+  {
+    "icon": "icon-volume-off",
+    "tags": ""
+  }
+]
